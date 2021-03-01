@@ -129,8 +129,8 @@
 
 .card__btn:hover {
     cursor: pointer;
-    background-color: #F91155;
+    background-color: #6211f9;
     transition: all 1s;
-    box-shadow: 2px 3px 10 px black;
+    box-shadow: 2px 3px 10 px rgb(153, 144, 144);
     border: 1px solid #005BFF;
 }
